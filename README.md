@@ -1,8 +1,8 @@
-# rts-jira-helper-ext
+# yandex-tracker-time-helper
 
-### Jira helper - extension for governing statistic of the sprint
+### Yandex tracker helper
 
-###Помощник по сбору статистики по спринту в жире (расширение для хрома)
+### Помощник по сбору информации в системе яндекс трекер, вживлённый в тело трекера посредствам расширения
 
 ---
 
@@ -24,16 +24,6 @@ Technology stack:
 This project is not a demonstration of optimal solutions.
 
 Этот проект не является демонстрацией оптимальных решений.
-
----
-
-### Description
-
-Sprint data collection software. The main part is done without the use of libraries,
-but the code is written in TS and compiled using Rollup.
-
-Программа для сбора данных по спринту. Основная часть выполнена без использования библиотек, 
-но код написан на TS и компилируется при помощи Rollup. 
 
 ---
 

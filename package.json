@@ -1,9 +1,9 @@
 {
-  "name": "ts-extension-starter",
+  "name": "yandex-tracker-time-helper",
   "version": "1.0.0",
-  "description": "A starter repo for building Chrome browser extensions in v3 manifest using Typescript and Rollup.",
+  "description": "Yandex tracker helper",
   "license": "MIT",
-  "author": "Ross Moody<@_rossmoody>",
+  "author": "Dmitriy Oskarov<@Oskarov>",
   "keywords": [
     "chrome-extension",
     "web-extension",
@@ -12,13 +12,13 @@
     "rollup",
     "boilerplate"
   ],
-  "homepage": "https://github.com/rossmoody/ts-extension-starter#readme",
+  "homepage": "https://github.com/Oskarov/yandex-tracker-time-helper#readme",
   "bugs": {
-    "url": "https://github.com/rossmoody/ts-extension-starter/issues"
+    "url": "https://github.com/Oskarov/yandex-tracker-time-helper"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rossmoody/ts-extension-starter.git"
+    "url": "https://github.com/Oskarov/yandex-tracker-time-helper"
   },
   "scripts": {
     "build": "rollup -c",
